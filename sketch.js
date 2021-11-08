@@ -5,7 +5,7 @@ function setup() {
   var num2=random(0,100);
   
   result = num1 + num2;
-  console.log(result);
+  console.log("The sum of two random numbers is:"+ result);
   
   
 }
